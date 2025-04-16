@@ -1,21 +1,43 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+✌+😃;I'm+Joel+Medina...;It's+my+pleassure+to+meet+you+all!&center=true&size=19">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+!+✌+😃;Soy+Joel+Medina...;all!&center=true&size=19">
   </a>
 </h1>
 
-<h3 align="center">Web Development Student At Duoc UC
-</h3>
 <p align="center">
--I’m currently learning HTML, CSS but also SQL. 😉
+ Estudiante de Ingeniería en Informática en Duoc UC, apasionado por el desarrollo web y en constante aprendizaje.  
+  Actualmente estoy trabajando en un proyecto académico con <strong>Laravel</strong> y explorando nuevas tecnologías. 😉
   </p>
 <p align="center">
--Stay Tunned! 😄
+### 🚀 Tecnologías con las que trabajo
+
+- **Frontend:** HTML, CSS, JavaScript, TypeScript
+- **Backend:** PHP (Laravel), Node.js (básico)
+- **Base de datos:** MySQL, SQL
+- **Herramientas:** Git, GitHub, VS Code
+
+---
+
+### 📌 Proyectos destacados
+
+🔹 [Portafolio Profesional - PORTAFOLIO-2.0](https://github.com/jjmmcode/PORTAFOLIO-2.0)  
+🔹 [App de Finanzas Personales](https://github.com/jjmmcode/APP_FINANZAS_PERSONALES)  
+🔹 [E-Commerce Wines](https://github.com/jjmmcode/E-COMMERCE_WINES)  
+🔹 [Proyecto Académico con Laravel](#) *(privado por ahora)*
+
+---
+
+### 🌱 Actualmente aprendiendo
+- Laravel 10
+- REST APIs
+- SQL avanzado
+
+---
   </p>
 <hr>
 <br>
   
-## Things I'm into:
+## En lo que más me enfoco ahora:
 
   <div align=center>
     <a href="https://github.com/jjmmcode/github-readme-stats">
@@ -25,7 +47,7 @@
 
 
 
-## My activity:
+## Mi Actividad:
 ![contrib graph](./profile-3d-contrib/profile-night-view.svg)
 
 <!--
