@@ -9,6 +9,8 @@
   Actualmente estoy trabajando en un proyecto académico con <strong>Laravel</strong> y explorando nuevas tecnologías. 😉
   </p>
 <p align="center">
+
+  
 ### 🚀 Tecnologías con las que trabajo
 
 - **Frontend:** HTML, CSS, JavaScript, TypeScript
