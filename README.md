@@ -23,8 +23,8 @@
 ### 📌 Proyectos destacados
 
 🔹 [Portafolio Profesional - PORTAFOLIO-2.0](https://github.com/jjmmcode/PORTAFOLIO-2.0)  
-🔹 [App de Finanzas Personales](https://github.com/jjmmcode/APP_FINANZAS_PERSONALES)  
-🔹 [E-Commerce Wines](https://github.com/jjmmcode/E-COMMERCE_WINES)  
+🔹 [APP_MOVIL]([https://github.com/jjmmcode/APP_FINANZAS_PERSONALES](https://github.com/jjmmcode/PRUEBA_PROG_MOVIL))  
+🔹 [E-Commerce Discos Vinilos]([https://github.com/jjmmcode/E-COMMERCE_WINES](https://github.com/jjmmcode/EXAMEN-PROG-WEB))  
 🔹 [Proyecto Académico con Laravel](#) *(privado por ahora)*
 
 ---
