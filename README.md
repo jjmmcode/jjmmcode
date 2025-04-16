@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+!+✌+😃;Soy+Joel+Medina+Un+Gusto!;!&center=true&size=19">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+!+✌+😃;Soy+Joel+Medina+un+gusto!;&center=true&size=19">
   </a>
 </h1>
 
