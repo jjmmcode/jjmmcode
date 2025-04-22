@@ -25,7 +25,7 @@
 🔹 [Portafolio Profesional - PORTAFOLIO-2.0](https://github.com/jjmmcode/PORTAFOLIO-2.0)  
 🔹 [APP_MOVIL](https://github.com/jjmmcode/PRUEBA_PROG_MOVIL)  
 🔹 [E-Commerce Discos Vinilos](https://github.com/jjmmcode/EXAMEN-PROG-WEB)  
-🔹 [Proyecto Académico con Laravel](#) *(privado por ahora)*
+🔹 [Proyecto Académico con Laravel](https://github.com/markawaii/cl_ferremas_monolitico-laravel) 
 
 ---
 
