@@ -69,18 +69,19 @@
 
 ---
 
-<h3>📊 En lo que más me enfoco ahora</h3>
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <a href="https://github.com/jjmmcode/github-readme-stats">
-    <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjmmcode&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjmmcode&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
 
-<h3>📈 Mi Actividad</h3>
+## 🧠 Lenguajes más usados
 
-![contrib graph](./profile-3d-contrib/profile-night-view.svg)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjmmcode&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+</div>
+
 
 ---
