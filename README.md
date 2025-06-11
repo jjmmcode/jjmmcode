@@ -62,14 +62,14 @@
 
 ---
 
-<h3>🌱 Actualmente aprendiendo</h3>
+<h3 align="center">🌱 Actualmente aprendiendo</h3>
 
 - Laravel  
 - REST APIs
 
 ---
 
-## 📊 Estadísticas de GitHub
+<h3 align="center"> 📊 Estadísticas de GitHub</h3>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjmmcode&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
