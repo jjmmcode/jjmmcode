@@ -77,7 +77,7 @@
 
 ---
 
-## 🧠 Lenguajes más usados
+<h3 align="center"> 🧠 Lenguajes más usados</h3>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjmmcode&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
