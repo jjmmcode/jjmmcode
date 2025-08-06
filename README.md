@@ -56,8 +56,11 @@
 ---
 
 <h3 align="center">📌 Proyectos destacados</h3>
+<p align="left">
+  🔹 <a href="https://github.com/markawaii/cl_ferremas_monolitico-laravel" target="_blank">Proyecto Académico con Laravel</a><br>
+  🔹 <a href="https://github.com/jjmmcode/To-Do-App" target="_blank">Proyecto To-Do App</a>
+</p>
 
-🔹 [Proyecto Académico con Laravel](https://github.com/markawaii/cl_ferremas_monolitico-laravel)
 
 ---
 
