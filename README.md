@@ -67,11 +67,11 @@
 
 ---
 
-<h3 align="center">🌱 Actualmente aprendiendo</h3>
+<!-- This is a single-line comment. <h3 align="center">🌱 Actualmente aprendiendo</h3>
 
 <p align="center">
 </p>
-
+-->
 ---
 
 <h3 align="center"> 📊 Estadísticas de GitHub</h3>
