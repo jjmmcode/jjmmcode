@@ -62,15 +62,38 @@ My work involves data pipelines, cloud services, workflow orchestration, SQL, Py
 | **Observability** | Investigating pipeline behavior and monitoring with tools such as Grafana. |
 | **Software engineering** | Developing applications, APIs, and database-backed solutions. |
 
-### Featured work
+## Featured work
 
-A selection of areas and projects that reflect my development experience:
+A selection of projects that reflect my software development experience, technical interests, and hands-on learning.
 
-- **[Explore my repositories](https://github.com/jjmmcode?tab=repositories)** — Software development projects, experiments, and hands-on learning.
-- **Ferremas** — Academic web application work involving Laravel, CRUD operations, and REST API integration.
-- **To-Do App** — Task management application experience using React and a .NET backend, with JWT authentication and PWA concepts.
+### Golden Age Manager
+**Python · discord.py · AsyncIO · Automation**
 
-> I'm preparing public data engineering projects using synthetic datasets to demonstrate pipeline design and cloud workflows without exposing proprietary systems or information.
+A Discord community management and automation system built with Python.
+
+Developed to streamline administrative workflows, including application processing, role synchronization, character management, and automated reporting.
+
+- Automated application approval workflows.
+- Discord role and access management.
+- Character and mentor registries.
+- Excel and Word report generation.
+- Persistent application state and duplicate prevention.
+
+**[View Repository](https://github.com/jjmmcode/GoldenAgeManager)**
+
+### To-Do App
+**React · .NET · JWT · PWA**
+
+A full-stack task management application featuring a React frontend, a .NET backend, REST APIs, JWT authentication, and Progressive Web App capabilities.
+
+### Ferremas
+**Laravel · PHP · REST APIs · CRUD**
+
+An academic web application developed using Laravel, featuring CRUD operations, database management, and REST API integration.
+
+---
+
+*I'm also preparing public data engineering projects using synthetic datasets to demonstrate pipeline design, cloud workflows, and production-oriented practices.*
 
 ### Currently exploring
 
