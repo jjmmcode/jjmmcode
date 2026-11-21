@@ -62,6 +62,12 @@ My work involves data pipelines, cloud services, workflow orchestration, SQL, Py
 | **Observability** | Investigating pipeline behavior and monitoring with tools such as Grafana. |
 | **Software engineering** | Developing applications, APIs, and database-backed solutions. |
 
+### GitHub activity
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%"/>
+</div>
+
 ## Featured work
 
 A selection of projects that reflect my software development experience, technical interests, and hands-on learning.
